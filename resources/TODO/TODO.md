@@ -1,0 +1,1 @@
+Si uno de los services, por ejemplo el de groq devuelve un error, debería de intentarlo con el siguiente service que tuviéramos creado en index.ts ... const services
